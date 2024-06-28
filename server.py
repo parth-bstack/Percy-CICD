@@ -9,7 +9,7 @@ def hello_world():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>BrowserStack</title>
+        <title>Lamba Tests</title>
     </head>
     <body>
         <h1>Hello, <b style="color:orange">BrowserStack</b></h1>

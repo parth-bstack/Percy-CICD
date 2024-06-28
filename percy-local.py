@@ -12,7 +12,7 @@ from percy.snapshot import percy_snapshot
 load_dotenv()
 BROWSERSTACK_USERNAME = os.environ.get("BROWSERSTACK_USERNAME")
 BROWSERSTACK_ACCESS_KEY = os.environ.get("BROWSERSTACK_ACCESS_KEY")
-URL = "url"
+URL ="url"
 
 bs_local = Local()
 bs_local_args = { "key": BROWSERSTACK_ACCESS_KEY }
